@@ -3,11 +3,13 @@ import {
   Switch
 } from "react-router-dom";
 
+import MyApp from "./pages/Home/index";
+
 export default function App() {
   return (
     <Router>
       <Switch>
-        <h1>My App</h1>
+        <MyApp />
       </Switch>
     </Router>
   );
