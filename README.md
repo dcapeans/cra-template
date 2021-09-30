@@ -1,6 +1,6 @@
 # cra-template
 
-This is a template for Create React App with eslint configuration and using styled-components, axios, material-ui and react-icons.
+This is a template for Create React App with basic folders structure, eslint configuration and using styled-components, axios, material-ui and react-icons.
 
 If you don't specify a template (for example, `--template typescript`), the official base template for [Create React App](https://github.com/facebook/create-react-app) will be used by default.
 
